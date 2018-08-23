@@ -15,5 +15,5 @@
 [Spring JWT](https://medium.com/@nydiarra/secure-a-spring-boot-rest-api-with-json-web-token-reference-to-angular-integration-e57a25806c50)
 
 
-<img src="https://amedeobaragiola.me/static/spring.png" width="25%" height="25%" align="left">
+<img src="https://amedeobaragiola.me/static/springl.png" width="45%" height="45%" align="left">
 <img src="https://amedeobaragiola.me/static/jwt.jpg" width="45%" height="45%" align="left">
